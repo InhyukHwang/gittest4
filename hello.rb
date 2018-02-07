@@ -1,5 +1,5 @@
-		def hello
-			puts 'hello world'
-		end
-		
-		hello()
+def hello
+	puts 'hello wald'
+end
+
+hello()
